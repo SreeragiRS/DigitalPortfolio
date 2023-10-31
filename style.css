@@ -1,0 +1,28 @@
+
+h2
+{
+    color: Yellow;
+    font-size:35px;
+}
+ul li 
+{
+    list-style: none;
+    margin: 10px 0;
+}
+p b 
+{
+    color: white;
+    font-size:25px;
+}
+p{
+color:white;
+font-size:25px;
+}
+ul{
+color:white;
+font-size:25px;
+}
+
+.hidden {
+    display: none;
+}
